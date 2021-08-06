@@ -1,5 +1,5 @@
 # blackjack-unity
-source code for the game
+Source code for the game.
 
 Unity version: 2020.1.0b5
 
